@@ -1,2 +1,4 @@
 # discord.py
-Let the bot speak your words 
+Use -am YOURWORDS to make the bot speak your words
+
+
